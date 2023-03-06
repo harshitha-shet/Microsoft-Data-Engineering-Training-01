@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/2/2023 2:33:20 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="HMECL005931"
+  DTS:CreatorName="HAPPIESTMINDS\Harshitha.shet"
+  DTS:DTSID="{AC70CF85-1D2D-4864-B856-77EBD2479C5F}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5131.0"
+  DTS:LocaleID="16393"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{83591442-62F5-4D89-9DC6-21B7B18AF874}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

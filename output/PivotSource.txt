@@ -1,0 +1,15 @@
+Month	DayOfWeek	Expenses
+Jan	Sun	46
+Jan	Mon	12
+Jan	Tue	5
+Jan	Wed	76
+Jan	Thu	79
+Jan	Fri	34
+Jan	Sat	67
+Feb	Sun	98
+Feb	Mon	87
+Feb	Tue	17
+Feb	Wed	87
+Feb	Thu	88
+Feb	Fri	22
+Feb	Sat	95

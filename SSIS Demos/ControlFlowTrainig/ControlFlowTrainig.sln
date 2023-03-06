@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ControlFlowTrainig", "ControlFlowTrainig.dtproj", "{8EF7AA61-5D59-4496-9A17-B4A50EEBF733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF7AA61-5D59-4496-9A17-B4A50EEBF733}.Development|Default.ActiveCfg = Development
+		{8EF7AA61-5D59-4496-9A17-B4A50EEBF733}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BE9AAB-BFB0-437F-9103-57215C204DEC}
+	EndGlobalSection
+EndGlobal

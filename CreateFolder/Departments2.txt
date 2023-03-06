@@ -1,0 +1,6 @@
+DepartmentID,Name,GroupName,ModifiedDate
+9,Human Resources,Executive General and Administration,2008-04-30 00:00:00
+10,Finance,Executive General and Administration,2008-04-30 00:00:00
+11,Information Services,Executive General and Administration,2008-04-30 00:00:00
+14,Facilities and Maintenance,Executive General and Administration,2008-04-30 00:00:00
+16,Executive,Executive General and Administration,2008-04-30 00:00:00
